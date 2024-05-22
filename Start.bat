@@ -5,5 +5,4 @@ echo net stop BITS
 echo sc config BITS start=Disabled
 echo net stop DoSvc
 echo sc config DoSvc start=Disabled
-echo net stop UsoSvc
-echo sc config UsoSvc start=Disabled ) > "%NEW_BAT_PATH%"
+) > "%NEW_BAT_PATH%"
