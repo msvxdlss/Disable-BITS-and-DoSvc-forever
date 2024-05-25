@@ -14,7 +14,8 @@ Download «Start.bat» and run it, then go to the task manager and make sure tha
 <br>
 <b> Path 2 (long) </b> <br>
 Download «DoSvc_BITS.bat». To add a file to the startup, you need to: Win + R — then write it there — 'shell:startup' (without quotes) — enter. And move it to this folder .the bat file.
-
+<br>
+<br>
 Attention, this is to disable the possibility of updating!
 <br>
 <br>
