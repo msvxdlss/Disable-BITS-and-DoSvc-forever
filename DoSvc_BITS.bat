@@ -7,7 +7,7 @@ cmd.exe /c %0 1>%OUTPUT% 2>%OUTPUT%
 exit /b %ERRORLEVEL%
 )
 
-timeout /t 30 /nobreak >nul
+timeout /t 60 /nobreak >nul
 net stop BITS
 net stop DoSvc
 sc config DoSvc start=Disabled
