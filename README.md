@@ -8,11 +8,6 @@ After some time exploring the Internet, you will notice that these services can 
 <i> It will always work. </i>
 
 <h2> HOW TO INSTAL </h2><br>
-<b>Path 1 (short)</b> <br>
-Download «Start.bat» and run it, then go to the task manager and make sure that a file named «DoSvc_BITS.bat» appears in the startup. Delete «Start.bat».
-<br>
-<br>
-<b> Path 2 (long) </b> <br>
 Download «DoSvc_BITS.bat». To add a file to the startup, you need to: Win + R — then write it there — 'shell:startup' (without quotes) — enter. And move it to this folder .the bat file.
 <br>
 <br>
